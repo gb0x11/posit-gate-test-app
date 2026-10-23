@@ -20,10 +20,13 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "e0db1d08d498864fb113fcc6d586ab41"
+      "checksum": "ff6453c957d756c795b1618470b7b278"
     },
     "app.py": {
       "checksum": "d7900fb0df51342b518a62f0e8dd54f0"
+    },
+    "settings.py": {
+      "checksum": "293bb3dc13ded1db7a17c119f4a1a53d"
     }
   }
 }
